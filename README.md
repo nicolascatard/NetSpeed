@@ -45,7 +45,7 @@ NetSpeed affiche en permanence, sur deux lignes, la vitesse d'**envoi (↑)** et
 Il faut les outils en ligne de commande d'Apple (`xcode-select --install`), pas besoin de Xcode.
 
 ```bash
-git clone https://github.com/<ton-compte>/NetSpeed.git
+git clone https://github.com/nicolascatard/NetSpeed.git
 cd NetSpeed
 ./build.sh --install    # compile et installe dans ~/Applications
 ```
